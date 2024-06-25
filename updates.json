@@ -3,7 +3,7 @@
     "osx": {
       "open-url": "",
       "latest-version": "1.0.2",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "download-url": "https://github.com/JeffLingo/TestSparkle/releases/download/1.0.1/v1.0.1.dmg",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
       "mandatory": true
     }

@@ -1,1 +1,14 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Idem Key Manager</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 25 Jun 2024 13:31:05 +0800</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/JeffLingo/TestSparkle/releases/download/1.0.1/v1.0.1.dmg" length="26940978" type="application/octet-stream" sparkle:edSignature="qkFxJvgd7TZwjPpZwFC626MaHOL1Ux8MhJU9gkUFYaGg94oaE1SHBDMvMtAwGZBd45zf4Khj6Vpi2wtd7+DTCw=="/>
+        </item>
+    </channel>
+</rss>

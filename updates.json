@@ -5,14 +5,14 @@
       "latest-version": "1.0.1.2",
       "download-url": "https://github.com/JeffLingo/TestSparkle/releases/download/1.0.1/v1.0.1.dmg",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
-      "mandatory": true
+      "mandatory-update": false
     },
     "osx-intel": {
       "open-url": "",
       "latest-version": "1.0.2.1",
       "download-url": "https://github.com/JeffLingo/TestSparkle/releases/download/1.0.1/v1.0.1.dmg",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
-      "mandatory": true
+      "mandatory-update": true
     }
   }
 }

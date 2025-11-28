@@ -1,13 +1,13 @@
 {
   "updates": {
     "osx": {
-      "latest-version": "1.0.1.2",
+      "latest-version": "1.0.9.2",
       "download-url": "https://github.com/JeffLingo/TestSparkle/releases/download/1.0.1/v1.0.1.dmg",
       "mandatory-update": false,
       "checksum": "c2a998933246e888aead9cc6fff3f1cf"
     },
     "osx-intel": {
-      "latest-version": "1.0.3.1",
+      "latest-version": "1.0.9.1",
       "download-url": "https://github.com/JeffLingo/TestSparkle/releases/download/1.0.1/v1.0.1.dmg",
       "mandatory-update": false,
       "checksum": "c2a998933246e888aead9cc6fff3f1cf"

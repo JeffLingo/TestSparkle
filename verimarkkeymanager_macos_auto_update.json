@@ -4,13 +4,13 @@
       "latest-version": "1.0.5.7",
       "download-url": "https://accoblobstorageus.blob.core.windows.net/software/version/verimark/VeriMarkKeyManager.pkg",
       "mandatory-update": false,
-      "checksum": "d9118997d0caf28f2065962770d27a45"
+      "checksum": "1A93E7318331F39CE8D3F81D98050889"
     },
     "osx-intel": {
       "latest-version": "1.0.5.7",
       "download-url": "https://accoblobstorageus.blob.core.windows.net/software/version/verimark/VeriMarkKeyManager.pkg",
       "mandatory-update": false,
-      "checksum": "d9118997d0caf28f2065962770d27a45"
+      "checksum": "1A93E7318331F39CE8D3F81D98050889"
     }
   }
 }

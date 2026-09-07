@@ -5,14 +5,14 @@
       "download-url": "https://resource.gotrustid.com/idemkey/tools/idemkeymanager_macos/latest/IdemKeyManager.pkg",
       "mandatory-update": false,
       "checksum": "0a96a75ebac118ac387b144f8555576a",
-      "integrity": "sha256:1b4912bcaaf71f82f3f3971007bb6f912e7ea19546c1cdc7edb3939ab8574632"
+      "integrity": "sha256:69ebc7234ac2ebf2fe385338d2b8f18a6c17c7fb66f534853deb3d8ccce2815b"
     },
     "osx-intel": {
       "latest-version": "1.0.6.1",
       "download-url": "https://resource.gotrustid.com/idemkey/tools/idemkeymanager_macos/latest/IdemKeyManager.pkg",
       "mandatory-update": false,
       "checksum": "0a96a75ebac118ac387b144f8555576a",
-      "integrity": "sha256:1b4912bcaaf71f82f3f3971007bb6f912e7ea19546c1cdc7edb3939ab8574632"
+      "integrity": "sha256:69ebc7234ac2ebf2fe385338d2b8f18a6c17c7fb66f534853deb3d8ccce2815b"
     }
   }
 }

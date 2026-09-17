@@ -1,0 +1,4 @@
+1.0.12.11
+https://gotrustid.com/download/resources/idemkeymanager/IdemKeyManager.exe
+61edf8982a3878cf341218730f6db2f5
+sha256:51be11301bfdc69765a85338a70d995b52d7070d85a9920e8cda3c6f95056f4f
